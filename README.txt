@@ -1,4 +1,4 @@
-This is a minimalist micro-USB LiPo Battery Charger circuit board based on the MPC73831 LiPo Battery Charge Controller.
+This is a minimalist micro-USB LiPo Battery Charger circuit board based on the MPC73831 LiPo Battery Charge Controller and circuit taken directly from the Data Sheet.
 
 USB2.0 micro B smd.
 
